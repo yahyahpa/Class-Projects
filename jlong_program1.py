@@ -1,6 +1,4 @@
-#Jariel Long
-#CS101 - MWF 11:00 am - 11:50 am
-#Program Assignment 1: 
+Jlong 
 
 #Enter desired batches
 cookies = int(input('How many dozen cookies?\n'))
